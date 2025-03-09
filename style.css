@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   text-align: center;
-  background-image:url(./backimg.jpeg)
+  background: url(backimg.jpeg) no-repeat center center fixed;
+    background-size: cover;
 }
 
 h1 {
